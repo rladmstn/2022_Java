@@ -1,3 +1,4 @@
+// 기존학생 및 교환학생 정보 저장, 확인 - 메서드,클래스 연습
 import java.util.Scanner;
 
 class Info_Student{ // 기존학생 class

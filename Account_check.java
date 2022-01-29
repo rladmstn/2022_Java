@@ -1,4 +1,4 @@
-// 지출내역 및 월급내역 확인 프로그램 (interface 연습)
+// 지출내역 및 월급내역 확인 (interface 연습)
 import java.util.Scanner;
 
 class Person{
